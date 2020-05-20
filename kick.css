@@ -1,0 +1,881 @@
+
+.Rectangle-20 {
+  width: 1640px;
+  height: 146px;
+  background-color: #ffffff;
+}
+
+.HOME{
+   width: 300px; 
+  font-family: Gobold;
+  font-size: 20px;
+  font-weight: 100;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  margin-left: 100px;
+}
+
+
+
+.Rectangle-26 {
+    width: 440px;
+    height: 864px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+
+  .FILTERS {
+    width: 121px;
+    height: 30px;
+    font-family: Gobold;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    -ms-text-combine-horizontal: 40px;
+    margin-top: 10;
+  }
+
+  .Cost {
+    width: 62px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Rectangle-60 {
+    width: 20px;
+    height: 20px;
+    border: solid 1px #0d0d0d;
+    background-color: #ffffff;
+    
+  }
+
+  .Rs-1500-4000 {
+    width: 131px;
+    height: 20px;
+    font-family: ProductSans;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    margin-left: 15px;
+  }
+  .Rs-1500-4000 , .Rectangle-60{
+    display: inline-block;
+  }
+
+
+  .Colour {
+    width: 88px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+
+  .Rectangle-63 {
+    width: 40px;
+    height: 40px;
+    background-color: #f03a3a;
+  }
+
+  .Rectangle-64 {
+    width: 40px;
+    height: 40px;
+    background-color: #4fb7dc;
+  }
+
+  .Rectangle-65 {
+    width: 40px;
+    height: 40px;
+    background-color: #f5ea5e;
+  }
+
+  .Rectangle-66 {
+    width: 40px;
+    height: 40px;
+    background-color: #4fdc84;
+  }
+
+  .Rectangle-67 {
+    width: 40px;
+    height: 40px;
+    background-image: linear-gradient(226deg, #656e15 135%, #c2c723 53%, rgba(74, 68, 8, 0.3) -29%);
+  }
+
+
+
+
+.Design-templates {
+    width: 232px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Rectangle-68 {
+    width: 20px;
+    height: 20px;
+    border: solid 1px #0d0d0d;
+    background-color: #ffffff;
+  }
+
+ .two{
+    width: 11px;
+    height: 20px;
+    font-family: ProductSans;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    margin: 7px;
+  }
+
+
+  .Rectangle-42 {
+    width: 55px;
+    height: 39px;
+    background-color: #0d0d0d;
+    opacity: 0.5;
+    margin-left: 150px;
+    margin-bottom: 0px;
+  }
+  
+  .apply {
+    width: 48px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+   padding: 5px ;
+   padding-left: 5px ;
+   margin-left: 5px;
+
+  }
+
+ 
+  .Rectangle-68 ,.two, .space{
+    display: inline-block;
+      
+  }
+
+  .Rectangle-63, .Rectangle-63, .Rectangle-63, .Rectangle-63, .Rectangle-63{
+         display: inline-block;
+  }
+
+  .Rectangle-28 {
+    width: 920px;
+    height: 864px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+
+  .hello{
+      display: inline-block;
+      margin: 5px;
+  }
+
+ 
+
+  .SHOES {
+  width: 105px;
+  height: 30px;
+  font-family: Gobold;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0d0d0d;
+  margin-left: 20px;
+  margin-right: 600px;
+  margin-top: 20px;
+}
+
+.a{
+    width: 250px;
+    height: 250px;
+}
+
+.KSL-01 {
+    width: 97px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Rs-2000- {
+    width: 92px;
+    height: 20px;
+    font-family: ProductSansLight;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .b{
+      display: inline-block;
+      margin: 20px;
+  }
+
+  .KSW-01 {
+    width: 110px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Royal-S-01 {
+    width: 147px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Rectangle-29 {
+    width: 90px;
+    height: 39px;
+    border: solid 1px #0d0d0d;
+    background-color: #ffffff;
+    margin
+  }
+
+  .sort-by {
+    width: 60px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0d0d0d;
+    padding: 10px;
+    padding-bottom: 10px;
+  }
+
+  .c{
+      width: 55px;
+      height: 55px;
+  }
+
+.SHOES , .Rectangle-29{
+  display: inline-block;
+}
+
+  .Rectangle-27 {
+    width: 440px;
+    height: 864px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+
+  .x{
+    display: flex;
+    display: inline-block;
+  }
+
+  .rec{
+    margin-left: 30px;
+    padding-top: 30px;
+  }
+   
+
+  .CART {
+    width: 81px;
+    height: 50px;
+    font-family: Gobold;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    margin-top: 10px;
+  }
+
+  .cart{
+      width: 50px;
+      height: 50px;
+  }
+
+  .cart , .CART{
+      display: inline-block;
+  }
+
+  .d{
+      margin-left: 300px;
+  }
+
+  .Whats-stopping-you-designer {
+    width: 278px;
+    height: 20px;
+    font-family: ProductSansLight;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    padding: 100px;
+    margin-top: 200px;
+    margin-bottom: 150px;
+  }
+
+  .Home {
+    width: 53px;
+    height: 40px;
+    opacity: 0.5;
+    font-family: ProductSans;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .e{
+      width: 50px;
+      height: 35px;
+  }
+  .Select-date {
+    width: 100px;
+    height: 20px;
+    opacity: 0.5;
+    font-family: ProductSans;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    margin-left: 50px;
+  }
+  
+
+  .e , .Home , .Select-date{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+
+  .order-now {
+    width: 89px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding: 7px;
+  }
+
+.Rectangle-26 ,.Rectangle-27 , .Rectangle-28{
+  display: inline-block;
+}
+
+  /* store2 */
+
+  .your-design-space {
+    width: 243px;
+    height: 30px;
+    font-family: Gobold;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .f{
+      width: 600px;
+      height: 600px;
+  }
+
+  .g{
+      width: 180px;
+      height: 180px;
+      margin-left: px;
+  }
+
+  .f , .h{
+      display: inline-block;
+  }
+
+  .by-KICKSUP {
+    height: 20px;
+    font-family: ProductSansLight;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+  .Front {
+    width: 47px;
+    height: 20px;
+    font-family: ProductSans;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+  }
+
+ 
+
+ .Rectangle-58 {
+    width: 40px;
+    height: 40px;
+    opacity: 0.5;
+    background-color: #0d0d0d;
+  }
+  .i{
+    width: 40px;
+    height: 40px;
+}
+
+
+ .Rectangle-39 {
+    width: 40px;
+    height: 40px;
+    background-color: #2aa8db;
+  }
+
+  .Rectangle-30 {
+    width: 40px;
+    height: 40px;
+    background-color: #0d0d0d;
+  }
+  .Rectangle-58 {
+    width: 40px;
+    height: 40px;
+    opacity: 0.5;
+    background-color: #0d0d0d;
+  }
+  .Rectangle-50 {
+    width: 40px;
+    height: 40px;
+    border: solid 2px #0d0d0d;
+    background-color: #ffffff;
+  }
+ 
+  .k{
+    width: 11px;
+    height: 20px;
+    font-family: ProductSans;
+    font-size: 20px;  
+    line-height: 1.2;
+    text-align: right;
+    color: #0d0d0d;
+    padding: 10px;
+  }
+  .Rectangle-100 {
+    width: 134px;
+    height: 39px;
+    color: white;
+    border: 1px solid black;
+   
+  }
+  .share-design {
+    width: 115px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: black;
+    padding: 7px;
+    margin-left: 3px;
+  }
+  .Rectangle-42 {
+    width: 124px;
+    height: 39px;
+    background-color: #0d0d0d;
+  }
+
+  .add-to-cart {
+    width: 95px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    padding: 10px;
+    text-decoration: white;
+  }
+  .l{
+      height: 20px;
+  }
+
+  /* store 5 */
+  .Without-bonding-and-coordination-every-project-is-a-failure-Look-at-who-makes-KICKSUP-great- {
+    width: 1307px;
+    height: 30px;
+    font-family: ProductSans;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0d0d0d;
+    margin-bottom: 50px;
+    margin-left: 130px;
+  }
+
+  .Rectanglebig{
+      height: 450px;
+      width:1700px
+  }
+  .Rectangle-44 {
+    width: 250px;
+    height: 443px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    align-content: center;
+  }
+
+  .Zidane {
+    height: 30px;
+    font-family: Gobold;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0d0d0d;
+  }
+
+  .Leadership-management {
+    height: 20px;
+    font-family: ProductSansLight;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0d0d0d;
+  }
+  .m{
+      width: 30px;
+      height: 30px;
+      margin: 10px;
+      
+  }
+  .n{
+      width: 250px;
+      height: 250px;
+      margin-bottom: 20px;
+      
+  }
+
+  .z{
+      display: inline-block;
+      margin-left: 70px;
+  }
+  .y{
+   
+      width: 250px;
+      height: 70px;
+      align-content: center;
+      margin-left: 50px;
+      margin-top: 20px;
+     
+    
+  }
+ 
+ 
+  .and-You- {
+    width: 191px;
+    height: 40px;
+    font-family: ProductSans;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0d0d0d;
+    margin-left: 800px;
+    margin-top: 30px;
+  }
+
+  /* store 6*/
+  .Rectangle-73 {
+    width: 500px;
+    height: 597px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    align-content: center;
+    margin-left: 400px;
+  }
+  .REACH-US-AT{
+    height: 30px;
+    font-family: Gobold;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: #0d0d0d;
+    margin-left: 100px;
+   
+  }
+
+  .for-any-technical-support {
+    width: 218px;
+    height: 20px;
+    font-family: ProductSansLight;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: #0d0d0d;
+    margin-left: 100px;
+  }
+
+  .o{
+      margin-left: 100px;
+      padding: 50px;
+  }
+
+  .stay-in-touch {
+    width: 112px;
+    height: 20px;
+    font-family: Gobold;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0d0d;
+    margin-left: 600px;
+  }
+  .p{
+      width: 31.6px;
+      height: 31.6px;
+      margin-left: 30px;
+  }
+  .q{
+      margin-left: 545px;
+  }
+
+  /* store 7*/
+
+  .g{
+    margin-left: 100px;
+    margin-bottom: 30px;
+  }
+.u {
+  margin-bottom: 230px;
+  margin-left: 130px;
+}
+
+.xyz{
+  margin-left: 100px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/*store777*/
+
+.Rectangle-500 {
+  width: 1600px;
+  height: 500px;
+  background-image: url(bg_pic.png);
+  
+}
+ 
+.THE-JOURNEY {
+  width: 706px;
+  height: 100px;
+  font-family: Gobold;
+  font-size: 100px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  padding: 200px;
+  padding-left: 450px;
+}
+
+.text-box {
+  width: 1600px;
+  height: 652px;
+  background-color: #0d0d0d;
+  background-image: url(black_first.png);
+  margin-top: 0px;
+}
+
+.THE-ROOTS {
+  width: 175px;
+  height: 30px;
+  font-family: Gobold;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+ 
+}
+
+.pp {
+  width: 1412px;
+  height: 68px;
+  font-family: ProductSans;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+
+
+  
+ 
